@@ -24,11 +24,6 @@ gitHelp
 
 提交完成以后，我们需要把我们的修改合并到[gitHelp](https://github.com/WuBMHDTV/gitTest)中，打开你自己的gitHelp项目克隆，地址是 [https://github.com/XXXXXX/gitTest](https://github.com/XXXXXX/gitTest)，点击上的 **Pull Request** 按钮，然后填写一些提交的信息，完成
 
-
 ### 将源作者的修改同步到你自己的github账户上 ###
 
 如果你发现原作者已经修改了很多地方，你的代码和对方不同步了，此时需要将对方的代码同步到你的账户下，选择你自己账户下的repo，然后还是想发起pull request一样，点击 **Pull Request** 按钮，然后把左边改成你自己的项目，右边改成源作者的项目（之前是相反的），然后提交，提交完了以后会在你自己项目的pull request标签下显示出有项目提交了，此时点击 **merge pull request** 进行合并，如果没有冲突的话，会把对方的修改和你的修改合并到一起，如果有冲突需要进行手动合并，合并代码的时候请一定检查是否会影响你自己的代码。
-
-###TEST###
-很好的教程
-谢谢
